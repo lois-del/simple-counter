@@ -26,3 +26,7 @@ button {
     color: aqua;
     font-weight: 400;
 }
+
+p {
+    font-size: 2em;
+}
